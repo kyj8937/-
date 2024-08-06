@@ -1,0 +1,5 @@
+user001#John Doe#880101-1234567#123 Main Street, Anytown#555-1234#johndoe@example.com
+user002#Jane Smith#900202-2345678#456 Elm Street, Anycity#555-5678#janesmith@example.com
+user003#Alex Johnson#950303-3456789#789 Oak Street, Anystate#555-9012#alexjohnson@example.com
+user004#Emily Wilson#910404-4567890#321 Pine Street, Anyvillage#555-3456#emilywilson@example.com
+user005#Michael Lee#880505-5678901#654 Cedar Street, Anyborough#555-6789#michaellee@example.com
